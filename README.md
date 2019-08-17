@@ -42,7 +42,8 @@ After successfully configuring [app.properties](https://github.com/sheva/check-c
 ```
 $ mvn compile exec:java
 ```
-## The result of every check will be written into **output.file** 
+## Results 
+The results of every check will be written into **output.file** 
 ```
 ....
 --- Test performed at 2019-08-16 13:46:18 ---
