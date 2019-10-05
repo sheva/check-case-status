@@ -1,8 +1,7 @@
 ## The reason
 I always been curious and want to know news ASAP. That was the case and with my family Green Card status. 
-After checking the cases three days in a raw I decided to write a little app that would deliver this updated information 
-on day-to-day basis to me and my husband via email. It helped utilize time in a better way, allowing us avoid repeating actions for 9 receipts.
-I hope this code will be useful and for naturalization reason. =)
+After checking the cases three days in a raw I decided to write a little program that would deliver this updated information 
+to me and my husband on daily basis via email. It helped utilize time in a better way, allowing us avoid repeating actions for 9 receipts. I hope this code will be useful and for naturalization reason. =)
 
 ## How to set up
 
